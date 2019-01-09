@@ -13,7 +13,8 @@ exports.strings = {
     'fr_FR': 'Félicitations, vous avez réussi le dernier niveau !',
     'ru_RU': 'Вау! Вы прошли последний уровень, отлично!',
     'uk': 'Вау! Ти пройшов останній рівень, круто!',
-    'ko': '와우! 마지막 레벨까지 마쳤습니다. 멋지네요!'
+    'tr': 'Vay be! Son seviyeyi bitirdin, süpersin!',
+    'ko': '와우! 마지막 레벨까지 마쳤습니다. 멋지네요!' 
   },
   ///////////////////////////////////////////////////////////////////////////
   'finish-dialog-next': {
@@ -29,6 +30,7 @@ exports.strings = {
     'fr_FR': 'Voulez-vous passer à *"{nextLevel}"*, le prochain niveau ?',
     'ru_RU': 'Хотите перейти на следующий уровень: *"{nextLevel}"*?',
     'uk': 'Хочеш перейти на наступний рівень -- *"{nextLevel}"*?',
+    'tr': 'Bir sonraki seviyeye geçmek istermisin? Seviye *"{nextLevel}" ',
     'ko': '다음 레벨로 넘어갈까요? 레벨 *"{nextLevel}"*'
   },
   ///////////////////////////////////////////////////////////////////////////
@@ -45,6 +47,7 @@ exports.strings = {
     'fr_FR': 'Fabuleux ! Votre solution a égalé ou surpassé notre solution.',
     'ru_RU': 'Отлично! Ваше решение соответствует или превосходит наше.',
     'uk': 'Чудово! Твій розв’язок на рівні або кращий від нашого.',
+    'tr': 'Mükemmel! Bildin ve hatta bizim çözümümüzü geçmiş bile olabilirsin',
     'ko': '멋져요! 우리의 해답과 일치하거나 우리보다 좀 더 나은 해답입니다.'
   },
   ///////////////////////////////////////////////////////////////////////////
@@ -61,6 +64,7 @@ exports.strings = {
     'fr_FR': 'Voyons si vous pouvez descendre à {best} :D',
     'ru_RU': 'Попробуйте, может вы сможете уложиться в {best} : D',
     'uk': 'Спробуй, можливо ти зможеш вкластися в {best} кроків :D',
+    'tr': 'Daha azıyla daha iyisini {best} yapabilirsin :D ',
     'ko': '{best}회로 줄일 수 있다면 해보세요. :D'
   },
   ///////////////////////////////////////////////////////////////////////////
@@ -76,6 +80,7 @@ exports.strings = {
     'de_DE': 'Achtung! Mercurial macht aggressive Garbage Collection und muss daher deinen Baum reduzieren',
     'ru_RU': 'Внимание! Mercurial использует агрессивный сборщик мусора и обрезает ваше дерево',
     'uk': 'Увага! Mercurial агресивно збирає сміття й може обрізати твоє дерево ',
+    'tr': 'Uyarı! Mercurial agrasif garbage collection yaptı bu yüzden gereksiz yerleri çıkartın',
     'ko': '주의! Mercurial은 공격적으로 가비지 컬렉션을 수행하므로 트리를 정리할 필요가 있습니다.'
   },
   ///////////////////////////////////////////////////////////////////////////
@@ -91,6 +96,7 @@ exports.strings = {
     'fr_FR': 'L\'option -A n\'est pas nécessaire pour cette application, simplemer commiter',
     'ru_RU': 'Опция -A не требуется для этого приложения, просто сделайте коммит.',
     'uk': 'Опція -A не потрібна для цього застосунку, можна просто комітити!',
+    'tr': '-A seçeneği bu aplikasyon için gerekli değil, commit yapın!',
     'ko': '이 앱에선 -A 옵션은 필요 없습니다. 그냥 커밋하세요!'
   },
   ///////////////////////////////////////////////////////////////////////////
